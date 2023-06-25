@@ -1,0 +1,27 @@
+﻿2023-06-04 [version-1.0]
+
+
+[FOR USER]
+NOTE: YOU MUST HAVE MYSQL SERVER INSTALLED IN YOUR COMPUTER
+
+Instructions:
+	1. Import the '.bacpac' file inside this folder in MYSQL Server.
+	2. Change the 'my_server.txt' content to the name of your computer
+	3. Run the 'StudentAttendanceManagementSystem.exe' file by double clicking it.
+
+======================================================
+
+[FOR DEVELOPERS]
+NOTE: MUST HAVE SOFTWARES:
+	1. MYSQL SERVER
+	2. VISUAL STUDIO
+	3. GIT
+
+Instructions:
+	1. Navigate one step outside of this folder
+	2. Double click the '.sln' file to launch Visual Studio
+			opening this solution.
+	3. Import the '.bacpac' file inside this folder in MYSQL server.
+	4. Don't forget to 'git init', 'git add .', and 'git commit -am "<message>"'
+			every-time you change something.
+	

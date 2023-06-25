@@ -1,7 +1,3 @@
-# student-attendance-management-system-project
-
-Student Attendance Management System Project
-
 THE SOFTWARE 'Student Attendance Management System'
 IS PROVIDED ``AS IS'', WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
@@ -13,3 +9,4 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 Author:
 Ralph Maron Eda
+

@@ -1,0 +1,2 @@
+As of June 16
+	On login form, make the hide and show password button.

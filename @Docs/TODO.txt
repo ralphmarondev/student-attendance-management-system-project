@@ -1,0 +1,83 @@
+﻿
+AS OF JUNE 16, 2023
+	On update attendance, update the error where we can't remove the
+		old absents
+	Upon creating and updating attendance, update the status of each
+		students [ON GOING]
+	Implement search functionalities on other forms with search box
+		that is not yet implemented. [OPTIONAL]
+
+
+
+AS OF JUNE 11, 2023
+	On student form load, display all students having 20% absents 
+		[i.e. eligible for drop out]
+
+
+
+AS OF JUNE 10, 2023
+	Save the content of the grid-view in reports form on excel sheet.
+	Get the first 3 classes and make a short cut of them on dashboard form.
+
+
+
+AS OF JUNE 8, 2023
+	Add default class to the forms from database
+
+
+
+AS OF JUNE 3, 2023
+	sort the last names upon retrieving for attendance, student and classes forms
+	update attendance [done -> 2023-06-06]
+	delete attendance [done -> 2023-06-05]
+
+
+AS OF JUNE 2, 2023
+	When the 'search' button beside 'id-number and class-code' in 'update class/student form'
+		fill the fields with the current values stored in the database.
+	Determine whether the student is available for drop out. 
+	Implement 'Reports Form' functionalities.
+
+
+AS OF MAY 31, 2023
+	fix the error on the data inserted in attendance form [add id in the query, 
+		I guess this will solve the problem] [2023-06-02 -> done]
+
+
+AS OF MAY 29, 2023
+	implement user controls in student form [2023-05-29 -> done]
+	sort the names upon retrieving them on attendance form.
+	update the 'total absent' and 'total present' in the database [2023-05-29 -> done]
+	get the 'total_present' and 'total_absent' and set_text them on the
+		user control.
+
+
+AS OF MAY 25, 2023
+	store the result of the buttons, if red -> absent, otherwise,
+		present [done]
+
+
+AS OF MAY 23, 2023
+	get the values at a certain column in database
+		and store those data in an array list :) [done]
+	plan on how to store the count of absences from
+		in database. [done]
+
+
+AS OF MAY 17, 2023
+	make the functionalities of each form more concise
+		ex. delete class 
+
+
+AS OF MAY 16, 2023
+
+	get the total number of students in a database.
+	generate buttons programatically [dynamically], the 
+		number of buttons is based on the number of 
+		students in the database. [done]
+	set on-click listener on the buttons that are generated [done]
+	the solution I think is that, we are going the generate
+		a seat plan based on the last names of the students.
+		In the future, we are going to make it possible that
+		the  teacher is the one who are going the arrange the
+		seat plan

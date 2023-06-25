@@ -1,0 +1,85 @@
+﻿
+June 11, 2023
+	can view attendance [absent or present only or both in a certain date]
+
+
+June 10, 2023
+	implemented on text changed functionality on search boxes.
+	started implementing guest module.
+
+
+June 8, 2023
+	can sort the names in alphabetical order using last names in checking
+		of attendance, in attendance form.
+
+
+June 7, 2023
+	can get students with 'n' value of absents
+
+
+June 2, 20223
+	can count and store in the database the total count of absent and present
+		of a student :)
+	can pass data between forms, student->attendance, etc. 
+		data like -> {college, department, school year, etc.}
+
+
+May 31, 2023
+	can add, edit, delete user from database
+
+
+May 30, 2023
+	added 'college' and 'department' fields in class form
+
+
+May 28, 2023
+	can count how many absent and present a student made, insert and update
+	it, also retrieve it from the database.
+
+
+May 27, 2023
+	can already insert in the database whether the student is present or
+		not, depending on the color of the button
+
+
+May 25, 2023
+	can create new table [create new table using the class name]
+	can store data in the newly created table [add student on the class created,
+			stored in the database]
+	can create new column in a table [this is where we are going
+			to store, whether the student is absent or present
+			on that day, since the name of the newly created column
+			is the current date.]
+
+
+May 24, 2023
+	can retrieve data from a column in a database
+
+
+May 23, 2023
+	generate button programatically
+	add names, and text on the buttons
+	add click listener on the buttons
+
+
+May 16, 2023
+	started implementing attendance form functionalities
+
+
+May 11, 2023
+	implemented search functionality on classes and students
+
+
+May 6, 2023
+	validate user and password on login form
+
+
+May 2, 2023
+	implement update functionality of the forms
+
+
+May 1, 2023
+	created this project
+	connect to database
+	implement insert, display and delete functionalities 
+		of the forms
